@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
+.container{
+  background-color: rgb(223, 238, 233);
+  color: blue;
+  text-align: center;
+}
+Form{
+  color: brown; 
+  background-color: cornsilk;
+  border: rgb(6, 115, 218) solid 4px;
+}
+.flex-large{
+  color: rgb(245, 46, 46);
+  background-color: rgb(243, 243, 140);
+}
+.table-header{
+  background-color: rgb(240, 234, 227);
+  align-items: center;
+  justify-content: center;
+  font-size: medium;
+  color: rgb(43, 90, 228);
+}
+.table-body{
+  background-color: rgb(206, 248, 245);
+  color: rgb(236, 49, 49);
+}
+.table{
+  text-align: center;
+  color: #220ed6;
+  border: rgb(228, 174, 26) solid 4px;
+  width: 100%; height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+button{
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  border: rgb(240, 136, 87) solid 3px;
+}
